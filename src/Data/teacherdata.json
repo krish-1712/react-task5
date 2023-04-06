@@ -1,0 +1,66 @@
+[
+    {
+        "id"  :"1",
+        "Name":"Harish",
+        "Age": 35,
+        "Email":"harish@gmail.com",
+        "Subject":"Analytical Instruments",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"2",
+        "Name":"Jaya Surya",
+        "Age": 24,
+        "Email":"surya@gmail.com",
+        "Subject":"Control System",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"3",
+        "Name":"Nizam",
+        "Age": 23,
+        "Email":"Nizam@gmail.com",
+        "Subject":"Advance Contol System",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"4",
+        "Name":"Karthik",
+        "Age": 23,
+        "Email":"Karthik@gmail.com",
+        "Subject":"Digital Signal Processing",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"5",
+        "Name":"Krish",
+        "Age": 23,
+        "Email":"Krish@gmail.com",
+        "Subject":"Computer Networks",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"6",
+        "Name":"Swetha",
+        "Age": 23,
+        "Email":"swetha@gmail.com",
+        "Subject":"Industrial Instrumentation",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"7",
+        "Name":"Aishwerya",
+        "Age": 23,
+        "Email":"aisu@gmail.com",
+        "Subject":"Process Control",
+        "Qualification":"BE, ME"
+    },
+    {
+        "id":"8",
+        "Name":"Gayathiri",
+        "Age": 23,
+        "Email":"gayathiri@gmail.com",
+        "Subject":"Signal System",
+        "Qualification":"BE, ME"
+    }
+]
